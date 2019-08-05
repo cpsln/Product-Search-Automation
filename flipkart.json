@@ -1,0 +1,54 @@
+[
+    {
+        "Display": "Analogue",
+        "Brand Material": "Leather",
+        "Brands":"Fossil",
+        "image":"https://m.media-amazon.com/images/I/81GZaQsLWGL._AC_SX200_SY200_.jpg",
+        "price":"2000",
+        "site":"flipkart"
+    },
+    {
+        "Display": "Enticer Black Dial ",
+        "Brand Material": "Stainless Steel",
+        "Brands":"Casio",
+        "image":"https://m.media-amazon.com/images/I/61S+R996mML._AC_UL480_FMwebp_QL65_.jpg",
+        "price":"1990",
+        "Discounts": "25% or more",
+        "site":"flipkart"
+    },
+    {
+        "Display": "Analogue",
+        "Brand Material": "Leather",
+        "Brands":"Titan",
+        "image":"https://m.media-amazon.com/images/I/91jVlQjxrQL._AC_UL480_FMwebp_QL65_.jpg",
+        "price":"1100",
+        "Discounts": "25% or more",
+        "site":"flipkart"
+    },
+    {
+        "Display": "Analogue",
+        "Brand Material": "Leather",
+        "Brands":"Fossil",
+        "image":"https://m.media-amazon.com/images/I/81bbOFTzlIL._AC_UL480_FMwebp_QL65_.jpg",
+        "price":"1200",
+        "site":"flipkart"
+    },
+    {
+        "Display": "Enticer Black Dial ",
+        "Brand Material": "Stainless Steel",
+        "Brands":"Titan",
+        "image":"https://m.media-amazon.com/images/I/71efezTzQXL._AC_UL480_FMwebp_QL65_.jpg",
+        "price":"2100",
+        "Discounts": "25% or more",
+        "site":"flipkart"
+    },
+    {
+        "Display": "Analogue",
+        "Brand Material": "Leather",
+        "Brands":"Titan",
+        "image":"https://m.media-amazon.com/images/I/91jVlQjxrQL._AC_UL480_FMwebp_QL65_.jpg",
+        "price":"2100",
+        "Discounts": "25% or more",
+        "site":"flipkart"
+    }
+]  
